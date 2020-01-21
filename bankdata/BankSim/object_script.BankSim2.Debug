@@ -1,0 +1,15 @@
+debug/main.o
+debug/mainwindow.o
+debug/menuwindow.o
+debug/balance.o
+debug/events.o
+debug/withdrawal.o
+debug/getmoney.o
+debug/receipt.o
+debug/moc_mainwindow.o
+debug/moc_menuwindow.o
+debug/moc_balance.o
+debug/moc_events.o
+debug/moc_withdrawal.o
+debug/moc_getmoney.o
+debug/moc_receipt.o

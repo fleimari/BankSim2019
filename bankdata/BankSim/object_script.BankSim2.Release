@@ -1,0 +1,15 @@
+release/main.o
+release/mainwindow.o
+release/menuwindow.o
+release/balance.o
+release/events.o
+release/withdrawal.o
+release/getmoney.o
+release/receipt.o
+release/moc_mainwindow.o
+release/moc_menuwindow.o
+release/moc_balance.o
+release/moc_events.o
+release/moc_withdrawal.o
+release/moc_getmoney.o
+release/moc_receipt.o
